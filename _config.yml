@@ -1,4 +1,4 @@
-name: Skyarc
+name: SkyArc
 favicon: null
 layout_spectrum: 0.0002824708353728056
 typography_spectrum: 0.08245554147288203
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.45165759650990367
+    - '#32bdf7'
+    - '#004900'
+    - '#fdfdfd'
+    - '#51004e'
+    - '#face5a'
+  brandStrength: 0.375
   lightness: 0.1801867000758648
   saturation: 0.6935974878724664
   rhythmicContrast: 0.4458368301857263
