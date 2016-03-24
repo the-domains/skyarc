@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SkyArc Imaging]]></title>
         <description><![CDATA[SkyArc Imaging]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skyarc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 00:59:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 01:02:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skyarc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SkyArc Imaging your aerial photography and videography solution</p>]]></description>
-            <link>undefined92437731-d665-44bf-a053-11364cfe3f86/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e20b4816-ceaa-4b8f-b687-05accb613319.jpg">]]></description>
+            <link>https://thegrid.ai/skyarc/92437731-d665-44bf-a053-11364cfe3f86/index.html</link>
             <guid isPermaLink="false">92437731-d665-44bf-a053-11364cfe3f86</guid>
-            <pubDate>Thu, 24 Mar 2016 00:59:43 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 01:01:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
